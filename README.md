@@ -22,3 +22,9 @@
 * Realizar el análisis y limpieza de textos.
 * Explorar las diferentes técnicas de transformación de datos no estructurados.
 * Establecer el mejor modelo basado en SVM.
+
+## Laboratorio 3
+### Sesión 1
+* Realizar la carga y procesamiento de imágenes con Keras y TensorFlow.
+* Construir una Red Neuronal Artificial.
+* Entender la Arquitectura de las Redes y la Transferencia de Conocimiento.
